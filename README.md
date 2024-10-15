@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN Stack development**
 
-- 📫 How to reach me **praveennayagam18@gmail.com**
+- 📫 How to reach me **praveennayagam1820@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
