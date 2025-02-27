@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm praveen</h1>
-<h3 align="center">A passionate Frontend | Full-Stack developer from India</h3>
+<h3 align="center">A passionate Full-Stack | Frontend developer from India</h3>
 
-- 🌱 I’m currently learning **MERN Stack development**
+- 🌱 I’m Certified **MERN Stack development**
 
 - 👨‍💻 All of my projects are available at [https://praveendigitalportfolio.netlify.app/](https://praveendigitalportfolio.netlify.app/)
 
-- 📫 How to reach me **praveennayagam1820@gmail.com**
+- 📫 How to reach me **praveennayagam18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
